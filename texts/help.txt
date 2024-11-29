@@ -1,0 +1,26 @@
+Welcome to Mad Hatter's Psychedelic Tea Time!
+
+Here’s how to navigate this colorful adventure:
+
+**Available Commands:**
+- **move/go:** Explore the vibrant world around you.
+- **get/pick:** Collect items to aid your quest.
+- **drop:** Release items from your inventory.
+- **inventory/i:** Check what you’ve gathered.
+- **location/where/whereami:** Discover your current realm.
+- **look/examine/observe/gaze:** Take a closer look at your surroundings.
+- **exit/quit/q/escape:** Leave the game if you need a break.
+- **north/n/up-up-up:** Journey to the mystical north.
+- **south/s/down:** Venture south into the unknown.
+- **east/e/right:** Head east towards new adventures.
+- **west/w/left:** Explore the western wonders.
+- **talk/speak/chat/converse:** Engage with characters you meet.
+- **use/utilize/employ:** Make use of items in your inventory.
+- **help/guide/assist:** Get assistance on commands and gameplay.
+- **brew/concoct/mix:** Create magical tea blends.
+- **invite/summon/call:** Invite friends to the tea party.
+- **repair/fix/mend:** Restore broken items to their former glory.
+- **dance/groove/sway:** Join in the psychedelic fun!
+
+**Objective:**
+Your mission is to orchestrate the most unforgettable psychedelic tea party by inviting all your quirky friends, fixing the kettle, and gathering all the enchanted items needed for a celebration that will leave everyone buzzing!
