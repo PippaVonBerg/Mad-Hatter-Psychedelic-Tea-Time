@@ -3,7 +3,10 @@ A Java game engine
 
 Game Title: Mad Hatter's Psychedelic Tea Time
 Description:
-Step into a kaleidoscopic world where the Mad Hatter is throwing the wildest tea party Wonderland has ever seen! Join the March Hare on a mind-bending quest filled with vibrant colors, quirky characters, and unexpected surprises. The kettle is broken, and it’s up to you to gather everything needed for this outrageous celebration. Get ready for a tea party like no other!
+Step into a kaleidoscopic world where the Mad Hatter is throwing the wildest tea party Wonderland has ever seen! Join the March Hare on a mind-bending quest filled with vibrant colors, quirky characters, and unexpected surprises. The kettle is broken, and it’s up to you to gather everything needed for this outrageous celebration. 
+
+Get ready for a tea party like no other!
+
 Plot:
 The March Hare and his delightfully eccentric friends are buzzing with excitement, but before they can sip their psychedelic brews, they have some whimsical tasks to tackle:
 
@@ -56,5 +59,7 @@ Explore a vibrant array of locations bursting with color and whimsy:
     Cloudy Mountains: A breathtaking overlook hiding secrets waiting to be uncovered.
     Swamps of Mystery: Navigate through murky waters where bizarre encounters await.
 
+![Hare's Layout](https://github.com/PippaVonBerg/Mad-Hatter-Psychedelic-Tea-Time/blob/main/Hare's%20Layout.png)
+    
 Objective:
 Your mission is to orchestrate the most unforgettable psychedelic tea party by inviting all your quirky friends, fixing the kettle, and gathering all the enchanted items needed for a celebration that will leave everyone buzzing!
