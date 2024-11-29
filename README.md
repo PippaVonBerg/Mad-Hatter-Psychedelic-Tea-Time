@@ -2,8 +2,10 @@
 A Java game engine 
 
 Game Title: Mad Hatter's Psychedelic Tea Time
+
 Description:
-Step into a kaleidoscopic world where the Mad Hatter is throwing the wildest tea party Wonderland has ever seen! Join the March Hare on a mind-bending quest filled with vibrant colors, quirky characters, and unexpected surprises. The kettle is broken, and it’s up to you to gather everything needed for this outrageous celebration. 
+Step into a kaleidoscopic world where the Mad Hatter is throwing the wildest tea party Wonderland has ever seen! 
+Join the March Hare on a mind-bending quest filled with vibrant colors, quirky characters, and unexpected surprises. The kettle is broken, and it’s up to you to gather everything needed for this outrageous celebration. 
 
 Get ready for a tea party like no other!
 
