@@ -1,7 +1,7 @@
-# 🍄🐇🐰🍄  Mad Hatter's Psychedelic Tea Time 🍄☕️🃏🐛👱‍♀️🐇🎀
+# 🍄🐇🐰🍄  Mad Hatter's Psychonaut Tea Time 🍄☕️🃏🐛👱‍♀️🐇🎀
 A Java game engine 
 
-Game Title: Mad Hatter's Psychedelic Tea Time
+Game Title: Mad Hatter's Psychonaut Tea Time
 
 Description:
 Step into a kaleidoscopic world where the Mad Hatter is throwing the wildest tea party Wonderland has ever seen! 
@@ -10,7 +10,7 @@ Join the March Hare on a mind-bending quest filled with vibrant colors, quirky c
 Get ready for a tea party like no other!
 
 Plot:
-The March Hare and his delightfully eccentric friends are buzzing with excitement, but before they can sip their psychedelic brews, they have some whimsical tasks to tackle:
+The March Hare and his delightfully eccentric friends are buzzing with excitement, but before they can sip their mind bending brews, they have some necessary tasks to tackle:
 
 Invite the Wild Guests:
 
@@ -25,7 +25,7 @@ Jack of Hearts: The charming rogue who craves pretzels to spice up the party.
 Caterpillar: A laid-back philosopher who enjoys smoking and pondering life’s mysteries.
             "Uh, I like to smoke; do you have some?"
 
-Fix the Kettle: Dive into a psychedelic puzzle to repair the magical kettle so you can brew up some mind-altering tea.
+Fix the Kettle: Dive into a quest to repair the magical kettle so you can brew up some mind-altering tea.
 
 Gather Enchanted Supplies: Collect whimsical items that will make this tea party unforgettable!
 
@@ -46,7 +46,7 @@ Interact with at least 12 whimsical items that will help you on your journey:
     Pie (for White Rabbit)
     Pretzels (for Jack of Hearts)
     Tobacco (for Caterpillar)
-    A magical kettle to brew your psychedelic tea
+    A magical kettle to brew your mind altering tea
     Enchanted tea leaves that spark imagination
 
 Locations:
@@ -64,4 +64,4 @@ Explore a vibrant array of locations bursting with color and whimsy:
 ![Hare's Layout](https://github.com/PippaVonBerg/Mad-Hatter-Psychedelic-Tea-Time/blob/main/Hare's%20Layout.png)
     
 Objective:
-Your mission is to orchestrate the most unforgettable psychedelic tea party by inviting all your quirky friends, fixing the kettle, and gathering all the enchanted items needed for a celebration that will leave everyone buzzing!
+Your mission is to orchestrate the most unforgettable trippy tea party by inviting all your quirky friends, fixing the kettle, and gathering all the enchanted items needed for a celebration that will leave everyone buzzing!
